@@ -8,4 +8,4 @@ They are generally paired with a given Arduino Sketch (.ino file) for the STM32 
 
 ### Table of contents:
 * [Blink led example (H160119_Blink.qar)](https://github.com/SuperFabius/The-Thing-FPGA-STM32/blob/master/QuartusII%20Project/H160119_Blink.qar):
-Blink the LED1 led on the board using the "Schematic editor" of Quartus II. No HDL language is required to understad it.
+Blink the LED1 led on the board using the "Schematic editor" of Quartus II. No HDL language is required to understad it. No sketch is neede on the STM32 side.
