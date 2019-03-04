@@ -10,4 +10,4 @@ Two dev boards into one: a STM32 based Arduino ("Maple Mini" compatible) and a C
 
 
 
-<b>*</b> All variants    + + + UNDER CONTRUCTION < < <  
+<b>* * * UNDER CONTRUCTION * * *</b> All variants    + + + UNDER CONTRUCTION < < <  
