@@ -4,7 +4,7 @@ Two dev boards into one: a STM32 based Arduino ("Maple Mini" compatible) and a C
 
 Detailed info (schematic, gerber files, BOM, etc.) [at this page](https://hackaday.io/project/163683-the-thing-fpga-stm32).
 
-### Table of contents
+### Table of contents:
 * [QuartusII Project](https://github.com/SuperFabius/The-Thing-FPGA-STM32/tree/master/QuartusII%20Project):
 In this folder there are the Quartus II projects examples for the Cyclone II FPGA. They are generally paired with a given Arduino Sketch (.ino file) for the STM32 (read the comments inside the project main source file).
 
