@@ -4,7 +4,7 @@ Two dev boards into one: a STM32 based Arduino ("Maple Mini" compatible) and a C
 
 
 https://github.com/SuperFabius/The-Thing-FPGA-STM32/tree/master/QuartusII%20Project
-
+QuartusII Project
 
 
      * * * UNDER CONTRUCTION * * * 
