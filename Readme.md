@@ -7,4 +7,7 @@ Two dev boards into one: a STM32 based Arduino ("Maple Mini" compatible) and a C
 * [STM32 Sketch](https://github.com/SuperFabius/The-Thing-FPGA-STM32/tree/master/STM32%20Sketch)
 
 
-     * * * UNDER CONTRUCTION * * * 
+
+
+
+     > > > UNDER CONTRUCTION < < <  
