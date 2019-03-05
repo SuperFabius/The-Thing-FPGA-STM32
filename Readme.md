@@ -11,7 +11,7 @@ Development info at this [Twitter account](https://twitter.com/Just4Fun_J4Fun).
 In this folder there are the Quartus II projects examples for the Cyclone II FPGA. They are generally paired with a given Arduino Sketch (.ino file) for the STM32 (read the comments inside the project main source file).
 
 * [STM32 Sketch](https://github.com/SuperFabius/The-Thing-FPGA-STM32/tree/master/STM32%20Sketch):
-In this folder there are the "sketch" examples (.ino files) for the STM32 Arduino. They are generally paired with a given Quartus II project example (read the comments inside the sketch source).
+In this folder there are the "sketch" examples (.ino files) for the STM32 Arduino. They are generally paired with a given Quartus II project example or a Quartus II Multicomp (read the comments inside the sketch source).
 
 
 
