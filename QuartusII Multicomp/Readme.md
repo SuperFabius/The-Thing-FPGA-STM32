@@ -2,6 +2,6 @@
 
 In this folder there are the Quartus II Multicomp projects for the Cyclone II FPGA. They could be paired with a given Arduino Sketch (.ino file) for the STM32 (read the comments inside the project main source file).
 
-### Table of contents:
+### Table of Quartus II projects:
 * [XXX](https://github.com/SuperFabius/The-Thing-FPGA-STM32/tree/master/QuartusII%20Multicomp):
 T.B.D.
