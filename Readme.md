@@ -11,7 +11,7 @@ Development info at this [Twitter account](https://twitter.com/Just4Fun_J4Fun).
 in this folder there are the Quartus II projects examples for the Cyclone II FPGA. They are generally paired with a given Arduino Sketch (.ino file) for the STM32.
 
 * [QuartusII Multicomp](https://github.com/SuperFabius/The-Thing-FPGA-STM32/tree/master/QuartusII%20Multicomp):
-in this folder there are the Quartus II Multicomp projects for the Cyclone II FPGA. These Multicomp have been already adapted to run inside the "The Thing" board "out of the box" ("The Thing" board HW design requires some adaptations from the original Multicomp design reference). They could be paired with a given Arduino Sketch (.ino file) for the STM32 and with a given SD image for HD emulation.
+in this folder there are the Quartus II Multicomp projects for the Cyclone II FPGA. These Multicomp have been already adapted to run inside the "The Thing" board "out of the box" ("The Thing" board HW design requires some little adaptations from the original Multicomp design reference). They could be paired with a given Arduino Sketch (.ino file) for the STM32 and with a given SD image for HD emulation.
 
 * [STM32 Sketch](https://github.com/SuperFabius/The-Thing-FPGA-STM32/tree/master/STM32%20Sketch):
 in this folder there are the "sketch" examples (.ino files) for the STM32 Arduino. They are generally paired with a given Quartus II project example or a Quartus II Multicomp. See in the [QuartusII Project](https://github.com/SuperFabius/The-Thing-FPGA-STM32/tree/master/QuartusII%20Project) or [QuartusII Multicomp](https://github.com/SuperFabius/The-Thing-FPGA-STM32/tree/master/QuartusII%20Multicomp) directory to know which Quartus II project they belong to.
