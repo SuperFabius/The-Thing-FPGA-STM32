@@ -6,7 +6,7 @@ In this folder there are the Quartus II projects examples for the Cyclone II FPG
 They are generally paired with a given Arduino Sketch (.ino file) for the STM32 (read the comments inside the project main source file).
 
 
-### Table of contents:
+### Table of Quartus II projects:
 * [Blink led example (H160119_Blink.zip)](https://github.com/SuperFabius/The-Thing-FPGA-STM32/blob/master/QuartusII%20Project/H160119_Blinks.zip):
 blink the LED1 led on the board using the "Schematic editor" of Quartus II. No HDL language is required to understand it. No sketch is needed on the STM32 side.
 * [Multifunctional interface example (H170119_Multifun.zip)](https://github.com/SuperFabius/The-Thing-FPGA-STM32/blob/master/QuartusII%20Project/H170119_Multifun.zip):
