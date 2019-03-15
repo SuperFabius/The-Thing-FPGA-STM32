@@ -20,7 +20,7 @@
   NOTE for "The Thing" board (A191117):
   
   This is the standard blink led example. Because it leaves all the others pins at HiZ, this is used as a "neutral" sketch.
-  In this useful when you want avoid conflicts with the FPGA on the common pins. 
+  This useful when you want avoid conflicts with the FPGA on the common pins. 
   =========================================================================================================================
 
   
