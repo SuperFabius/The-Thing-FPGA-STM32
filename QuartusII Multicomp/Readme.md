@@ -2,7 +2,7 @@
 
 In this folder there are the Quartus II Multicomp projects for the Cyclone II FPGA. They could be paired with a given Arduino Sketch (.ino file) for the STM32 and with a given SD image for HD emulation.
 
-These Multicomp have been already adapted to run inside the "The Thing" board "out of the box" ("The Thing" board HW design requires some adaptations from the original Multicomp design reference).
+These Multicomp have been already adapted to run inside the "The Thing" board "out of the box" ("The Thing" board HW design requires some little adaptations from the original Multicomp design reference).
 
 To write the SD image into a SD card, unzip the image file and simply copy it to your SD card using the [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) 
 
