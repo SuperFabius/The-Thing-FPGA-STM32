@@ -5,3 +5,5 @@ In this folder there are the SD images for HD emulation related to the Quartus I
 See in the [QuartusII Multicomp](https://github.com/SuperFabius/The-Thing-FPGA-STM32/tree/master/QuartusII%20Multicomp) directory to know which Quartus II Multicomp they belong to.
 
 To write the SD image into a SD card, unzip the image file and simply copy it to your SD card using the [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/) 
+
+(Work in progress...)
